@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="areena.fif">
+    <img src="areena.jfif" alt="Areena" width="600" height="400">
+  </a>
+  <div class="desc">Arena</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="clash royale.jfif">
+    <img src="clash royal,jfif" alt="Clash Royale logo" width="600" height="400">
+  </a>
+  <div class="desc">logo</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="electro.jfif">
+    <img src="electro.jfif" alt="Electro giant" width="600" height="400">
+  </a>
+  <div class="desc">New card</div>
+</div>
+
+	
+	
